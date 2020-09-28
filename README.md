@@ -1,6 +1,8 @@
+# Software currently in development
+
 # Chat button conversation generator
 
-_This project is developed by Osman Beltran Murcia with the purpose of simplify the creation of conversations for the different chatbots provided by Fourier Analytics_
+_This project is developed by Osman Beltran Murcia with the purpose of simplify the creation of conversations for the different chatbots_
 
 <!-- ## Comenzando 🚀
 
